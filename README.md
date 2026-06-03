@@ -5,4 +5,4 @@
 4. % Users Contest: inscritos únicos / total * 100.  
 5. Queries Quality: AVG(rating/position) e % de rating < 3.  
 
-MySQL 8.0+. Autor: Camisa 10.
+MySQL 8.0+.
